@@ -1,0 +1,9 @@
+[package]
+name = "rust-yul"
+version = "0.1.0"
+authors = ["Just some guy <3859395+fubuloubu@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+egg = "0.6.0"
+fxhash = "0.2"
